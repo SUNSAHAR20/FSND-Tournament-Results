@@ -1,6 +1,6 @@
 <html>
   <head>
-  <title><h1>FSND-Tournament-Results</h1></title>
+  <title>FSND-Tournament-Results</title>
   </head>
   <body>
     <ul>
